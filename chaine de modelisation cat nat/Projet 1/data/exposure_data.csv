@@ -1,0 +1,11 @@
+property_id,location,value,property_type,year_built,building_quality,exposure_duration
+1,Paris,300000,Residential,1990,High,24
+2,Paris,450000,Commercial,1985,Medium,12
+3,Marseille,600000,Industrial,2000,High,36
+4,Marseille,500000,Residential,1975,Low,24
+5,Lyon,250000,Commercial,1995,Medium,12
+6,Lyon,275000,Industrial,1980,High,36
+7,Lyon,400000,Residential,2010,High,24
+8,Paris,350000,Industrial,2005,Medium,12
+9,Paris,450000,Residential,1988,Low,24
+10,Marseille,550000,Commercial,1992,Medium,12
