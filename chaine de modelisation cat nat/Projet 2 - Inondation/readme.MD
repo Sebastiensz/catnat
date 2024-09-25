@@ -1,7 +1,11 @@
 # Modélisation Simplifiée des Dommages en Inondation
-![app1](images/app1.png)
-![app2](images/app2.png)
-![app3](images/app3.png)
+
+![app1](images/app1.PNG)
+
+![app2](images/app2.PNG)
+
+![app3](images/app3.PNG)
+
 ## Introduction
 
 Ce document présente le modèle que j’ai développé pour simuler les dommages causés par des inondations. J'ai choisi de réaliser cet exercice en utilisant le langage R, avec le package `data.table` pour la manipulation des données. Ce choix permet des calculs plus performants tout en consommant moins de ressources.
