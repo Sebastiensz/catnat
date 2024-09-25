@@ -1,6 +1,6 @@
 # Analyse du Code de Simulation d'Incendie
 
-![appfeu](images/app1feu.PNG)
+![appfeu](images/app1feu.png)
 
 ## Analyse du Code
 
