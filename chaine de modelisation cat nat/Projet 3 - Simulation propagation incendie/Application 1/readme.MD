@@ -1,5 +1,7 @@
 # Analyse du Code de Simulation d'Incendie
 
+![appfeu](images/app1feu.PNG)
+
 ## Analyse du Code
 
 ### 1. Importations et Déclarations Initiales
